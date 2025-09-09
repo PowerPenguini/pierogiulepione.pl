@@ -6,7 +6,7 @@
     "dev": "next dev --turbopack",
     "build": "next build --turbopack",
     "start": "next start",
-    "deploy": "rm -rf node_modules/.cache && next build && touch out/.nojekyll && git add -f out/ && git commit -m \"Deploy Next.js to gh-pages\" && git subtree push --prefix out origin gh-pages --force",
+    "deploy": "rm -rf node_modules/.cache && next build && touch out/.nojekyll && git add -f out/ && git commit -m \"Deploy Next.js to gh-pages\" && git subtree push --prefix out origin gh-pages",
     "lint": "eslint"
   },
   "dependencies": {
