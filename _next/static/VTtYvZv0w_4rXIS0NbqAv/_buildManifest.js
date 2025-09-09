@@ -1,13 +1,13 @@
 self.__BUILD_MANIFEST = {
   "/_error": [
-    "./static/chunks/46ffa0c3961d9a7e.js"
+    "./static/chunks/da7365e998f598f6.js"
   ],
   "__rewrites": {
     "afterFiles": [],
     "beforeFiles": [
       {
-        "source": "/.//_next/:path+",
-        "destination": "/_next/:path+"
+        "source": "/ulepionepierogi.pl//_next/:path+",
+        "destination": "/ulepionepierogi.pl/_next/:path+"
       }
     ],
     "fallback": []
