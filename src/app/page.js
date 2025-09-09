@@ -5,6 +5,7 @@ import { ContactSection } from "./components/contact-section";
 import { Header } from "./components/header";
 import { Footer } from "./components/footer";
 import { IconMapPin, IconPhone, IconMail } from "@tabler/icons-react";
+import Image from "next/image";
 
 function HeroSection() {
   return (
@@ -36,7 +37,7 @@ function HeroSection() {
       <div className="hidden md:block md:col-span-1"></div>
 
       <div className="col-span-12 md:absolute md:right-0 md:w-136 lg:w-full md:translate-y-6 md:translate-x-1/2 lg:col-span-5 lg:relative lg:translate-0 mt-8 md:mt-0">
-        <img src="/hero-image.png" alt="Hero" className="w-full h-auto" />
+        <Image src="/hero-image.png" alt="Hero" className="w-full h-auto" />
       </div>
     </section>
   );

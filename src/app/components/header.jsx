@@ -8,6 +8,7 @@ import {
   IconUsers,
   IconPhone,
 } from "@tabler/icons-react";
+import Image from "next/image";
 
 export function Header() {
   const [scrolled, setScrolled] = useState(false);
@@ -42,10 +43,11 @@ export function Header() {
             scrolled ? "lg:h-10 h-10" : "lg:h-16 h-10"
           }`}
         >
-          <img
-            src="/ulepione_logo.svg"
-            alt="Moje Logo"
+          <Image
+            src="./ulepione-logo.svg"
+            alt="Ulepione"
             className="w-auto h-full transition-all duration-300"
+            unoptimized
           />
         </div>
         </a>
