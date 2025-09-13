@@ -3,7 +3,7 @@ import { useState } from "react";
 import categories from "@/app/components/products.json";
 
 function ProductCard({ name, description, emoji, emojiBg, price }) {
-  const priceWithoutVAT = (price / 1.23).toFixed(2).replace(".", ",");
+  const priceWithoutVAT = (price / 1.05).toFixed(2).replace(".", ",");
   const priceWithVAT = price.toFixed(2).replace(".", ",");
 
   return (

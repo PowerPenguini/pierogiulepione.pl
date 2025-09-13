@@ -7,35 +7,35 @@
         "description": "Tradycyjne pierogi z farszem mięsnym.",
         "emoji": "🍖",
         "emojiBg": "#FBE9E7",
-        "price": 13.6
+        "price": 14
       },
       {
         "name": "Pierogi ukraińskie",
         "description": "Pierogi inspirowane kuchnią ukraińską.",
         "emoji": "🇺🇦",
         "emojiBg": "#E3F2FD",
-        "price": 13.6
+        "price": 14
       },
       {
         "name": "Pierogi z kapustą",
         "description": "Pierogi z kapustą kiszoną.",
         "emoji": "🥬",
         "emojiBg": "#E8F5E9",
-        "price": 13.6
+        "price": 14
       },
       {
         "name": "Pierogi z borówką",
         "description": "Słodkie pierogi z borówką leśną.",
         "emoji": "🫐",
         "emojiBg": "#EDE7F6",
-        "price": 13.6
+        "price": 14
       },
       {
         "name": "Pierogi z jagodą",
         "description": "Klasyczne pierogi z jagodą.",
         "emoji": "🫐",
         "emojiBg": "#EDE7F6",
-        "price": 13.6
+        "price": 14
       }
     ]
   },
@@ -47,119 +47,119 @@
         "description": "Orzeźwiające naleśniki z nutą limonki.",
         "emoji": "🍋",
         "emojiBg": "#FFFDE7",
-        "price": 16.85
+        "price": 17
       },
       {
         "name": "Naleśniki Kit-Kat",
         "description": "Słodkie naleśniki z kawałkami Kit-Kata.",
         "emoji": "🍫",
         "emojiBg": "#EFEBE9",
-        "price": 16.85
+        "price": 17
       },
       {
         "name": "Naleśniki ze śliwką",
         "description": "Delikatne naleśniki z farszem śliwkowym.",
         "emoji": "🍑",
         "emojiBg": "#F3E5F5",
-        "price": 16.85
+        "price": 17
       },
       {
         "name": "Naleśniki z serem",
         "description": "Delikatny naleśnik z kremowym serem.",
         "emoji": "🧀",
         "emojiBg": "#FFF8E1",
-        "price": 16.85
+        "price": 17
       },
       {
         "name": "Naleśniki ze szpinakiem",
         "description": "Wytrawny naleśnik ze szpinakiem i serem feta.",
         "emoji": "🥬",
         "emojiBg": "#E8F5E9",
-        "price": 16.855
+        "price": 17
       },
       {
         "name": "Naleśniki z jabłkiem",
         "description": "Tradycyjny naleśnik z jabłkami i cynamonem.",
         "emoji": "🍎",
         "emojiBg": "#FFEBEE",
-        "price": 16.85
+        "price": 17
       },
       {
         "name": "Naleśniki z shormą",
         "description": "Orientalny naleśnik z mięsem shorma.",
         "emoji": "🥙",
         "emojiBg": "#FFF3E0",
-        "price": 16.85
+        "price": 17
       },
       {
         "name": "Naleśniki z shormą i serem",
         "description": "Wytrawny naleśnik z shormą i serem.",
         "emoji": "🧀",
         "emojiBg": "#FFF8E1",
-        "price": 16.85
+        "price": 17
       },
       {
         "name": "Naleśniki z mango",
         "description": "Egzotyczny naleśnik z dojrzałym mango.",
         "emoji": "🥭",
         "emojiBg": "#FFF3E0",
-        "price": 16.85
+        "price": 17
       },
       {
         "name": "Naleśniki z pomarańczą",
         "description": "Naleśnik z soczystą pomarańczą.",
         "emoji": "🍊",
         "emojiBg": "#FFE0B2",
-        "price": 16.85
+        "price": 17
       },
       {
         "name": "Naleśniki z truskawkami",
         "description": "Klasyczny słodki naleśnik z truskawkami.",
         "emoji": "🍓",
         "emojiBg": "#FCE4EC",
-        "price": 16.85
+        "price": 17
       },
       {
         "name": "Naleśniki bolońskie",
         "description": "Wytrawny naleśnik z sosem bolońskim.",
         "emoji": "🍝",
         "emojiBg": "#FFEBEE",
-        "price": 16.85
+        "price": 17
       },
       {
         "name": "Naleśniki z dżemem",
         "description": "Prosty i pyszny naleśnik z dżemem owocowym.",
         "emoji": "🥞",
         "emojiBg": "#FFF9C4",
-        "price": 16.85
+        "price": 17
       },
       {
         "name": "Naleśniki kokosowo-czekoladowe",
         "description": "Słodkie naleśniki z kokosem i czekoladą.",
         "emoji": "🥥",
         "emojiBg": "#E0F2F1",
-        "price": 16.85
+        "price": 17
       },
       {
         "name": "Naleśniki z borówką",
         "description": "Słodkie naleśniki z borówką leśną.",
         "emoji": "🫐",
         "emojiBg": "#EDE7F6",
-        "price": 16.85
+        "price": 17
       },
       {
         "name": "Naleśniki mix słodki",
         "description": "Zestaw różnych słodkich naleśników.",
         "emoji": "🍬",
         "emojiBg": "#F3E5F5",
-        "price": 16.85
+        "price": 17
       },
       {
         "name": "Naleśniki mix wytrawny",
         "description": "Zestaw różnych wytrawnych naleśników.",
         "emoji": "🥗",
         "emojiBg": "#E8F5E9",
-        "price": 16.85
+        "price": 17
       }
     ]
   },
@@ -171,70 +171,70 @@
         "description": "Tradycyjne kopytka ziemniaczane.",
         "emoji": "🥔",
         "emojiBg": "#FFF3E0",
-        "price": 9.4
+        "price": 9.6
       },
       {
         "name": "Kluski śląskie",
         "description": "Delikatne kluski z charakterystyczną dziurką.",
         "emoji": "🥔",
         "emojiBg": "#FFF3E0",
-        "price": 9.4
+        "price": 9.6
       },
       {
         "name": "Kopytka pomidorowe",
         "description": "Kopytka z dodatkiem pomidorów.",
         "emoji": "🍅",
         "emojiBg": "#FFEBEE",
-        "price": 10.5
+        "price": 11
       },
       {
         "name": "Kopytka szpinakowe",
         "description": "Kopytka z zielonym akcentem szpinaku.",
         "emoji": "🥬",
         "emojiBg": "#E8F5E9",
-        "price": 10.5
+        "price": 11
       },
       {
         "name": "Love",
         "description": "Specjalne kluski w kształcie serc.",
         "emoji": "❤️",
         "emojiBg": "#FCE4EC",
-        "price": 10.5
+        "price": 11
       },
       {
         "name": "Kluski leniwe",
         "description": "Delikatne kluski z twarogu z dodatkiem cukru.",
         "emoji": "🍮",
         "emojiBg": "#FFFDE7",
-        "price": 10.5
+        "price": 11
       },
       {
         "name": "Kartacze",
         "description": "Duże kluski ziemniaczane z mięsnym farszem.",
         "emoji": "🥟",
         "emojiBg": "#F3E5F5",
-        "price": 15.8
+        "price": 17
       },
       {
         "name": "Knedle",
         "description": "Knedle z owocami w środku.",
         "emoji": "🍑",
         "emojiBg": "#FFF3E0",
-        "price": 17.35
+        "price": 18
       },
       {
         "name": "Uszka z mięsem",
         "description": "Małe uszka wypełnione farszem mięsnym.",
         "emoji": "🍖",
         "emojiBg": "#FBE9E7",
-        "price": 18.2
+        "price": 19
       },
       {
         "name": "Uszka z kapustą",
         "description": "Małe uszka z farszem kapuścianym.",
         "emoji": "🥬",
         "emojiBg": "#E8F5E9",
-        "price": 18.2
+        "price": 19
       }
     ]
   }
