@@ -1,2 +1,2 @@
 Website for local dumplings producer :) 
-Check out [Ulepione](https://ulepionepierogi.pl)
+Check out [Ulepione](https://pierogiulepione.pl)
