@@ -43,8 +43,8 @@
     "title": "Naleśniki",
     "products": [
       {
-        "name": "Naleśniki z limonką",
-        "description": "Orzeźwiające naleśniki z nutą limonki.",
+        "name": "Naleśniki bubble - limonka",
+        "description": "Naleśniki z kulkami hydrożelowymi o smaku limonki",
         "emoji": "🍋",
         "emojiBg": "#FFFDE7",
         "price": 17
@@ -58,7 +58,7 @@
       },
       {
         "name": "Naleśniki ze śliwką",
-        "description": "Delikatne naleśniki z farszem śliwkowym.",
+        "description": "Delikatne naleśniki z powidłami śliwkowymi.",
         "emoji": "🍑",
         "emojiBg": "#F3E5F5",
         "price": 17
@@ -71,9 +71,9 @@
         "price": 17
       },
       {
-        "name": "Naleśniki ze szpinakiem",
-        "description": "Wytrawny naleśnik ze szpinakiem i serem feta.",
-        "emoji": "🥬",
+        "name": "Naleśniki z pierczarkami i serem",
+        "description": "Naleśnik z ciasta szpinakowego z pieczarką i serem gouda",
+        "emoji": "🍄‍🟫",
         "emojiBg": "#E8F5E9",
         "price": 17
       },
@@ -99,37 +99,44 @@
         "price": 17
       },
       {
-        "name": "Naleśniki z mango",
-        "description": "Egzotyczny naleśnik z dojrzałym mango.",
+        "name": "Naleśniki z mango i marakują",
+        "description": "Egzotyczny naleśnik z farszem z mango i marakują.",
         "emoji": "🥭",
         "emojiBg": "#FFF3E0",
         "price": 17
       },
       {
-        "name": "Naleśniki z pomarańczą",
-        "description": "Naleśnik z soczystą pomarańczą.",
+        "name": "Naleśniki bubble - pomarańcza",
+        "description": "Naleśniki z kulkami hydrożelowymi o smaku pomarańczy",
         "emoji": "🍊",
         "emojiBg": "#FFE0B2",
         "price": 17
       },
       {
-        "name": "Naleśniki z truskawkami",
-        "description": "Klasyczny słodki naleśnik z truskawkami.",
+        "name": "Naleśniki bubble - truskawka",
+        "description": "Naleśniki z kulkami hydrożelowymi o smaku truskawki",
         "emoji": "🍓",
+        "emojiBg": "#FCE4EC",
+        "price": 17
+      },
+            {
+        "name": "Naleśniki bubble - jagoda",
+        "description": "Naleśniki z kulkami hydrożelowymi o smaku jagody",
+        "emoji": "🫐",
         "emojiBg": "#FCE4EC",
         "price": 17
       },
       {
         "name": "Naleśniki bolońskie",
-        "description": "Wytrawny naleśnik z sosem bolońskim.",
+        "description": "Wytrawny naleśnik z autorskim sosem bolońskim i wieprzowiną.",
         "emoji": "🍝",
         "emojiBg": "#FFEBEE",
         "price": 17
       },
       {
-        "name": "Naleśniki z dżemem",
-        "description": "Prosty i pyszny naleśnik z dżemem owocowym.",
-        "emoji": "🥞",
+        "name": "Naleśniki z dżemem truskawkowym",
+        "description": "Prosty i pyszny naleśnik z dżemem truskawkowym.",
+        "emoji": "🍓",
         "emojiBg": "#FFF9C4",
         "price": 17
       },
@@ -142,7 +149,7 @@
       },
       {
         "name": "Naleśniki z borówką",
-        "description": "Słodkie naleśniki z borówką leśną.",
+        "description": "Słodkie naleśniki z żelem borówkowym.",
         "emoji": "🫐",
         "emojiBg": "#EDE7F6",
         "price": 17
@@ -196,7 +203,7 @@
       },
       {
         "name": "Love",
-        "description": "Specjalne kluski w kształcie serc.",
+        "description": "Mieszanka kopytek szpinakowych i pomidorowych",
         "emoji": "❤️",
         "emojiBg": "#FCE4EC",
         "price": 11
@@ -210,7 +217,7 @@
       },
       {
         "name": "Kartacze",
-        "description": "Duże kluski ziemniaczane z mięsnym farszem.",
+        "description": "Duże kluski ziemniaczane z farszem wieprzowym.",
         "emoji": "🥟",
         "emojiBg": "#F3E5F5",
         "price": 17
@@ -230,8 +237,8 @@
         "price": 19
       },
       {
-        "name": "Uszka z kapustą",
-        "description": "Małe uszka z farszem kapuścianym.",
+        "name": "Uszka z kapustą i grzybami",
+        "description": "Małe uszka z farszem z kapusty i pieczarek.",
         "emoji": "🥬",
         "emojiBg": "#E8F5E9",
         "price": 19
