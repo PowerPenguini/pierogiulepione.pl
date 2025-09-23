@@ -17,8 +17,8 @@
         "price": 14
       },
       {
-        "name": "Pierogi z kapustą",
-        "description": "Pierogi z kapustą kiszoną.",
+        "name": "Pierogi z kapustą i grzybami",
+        "description": "Pierogi z farszem z kapustą i grzybami.",
         "emoji": "🥬",
         "emojiBg": "#E8F5E9",
         "price": 14
@@ -149,7 +149,7 @@
       },
       {
         "name": "Naleśniki z borówką",
-        "description": "Słodkie naleśniki z żelem borówkowym.",
+        "description": "Słodkie naleśniki z borówką w żelu.",
         "emoji": "🫐",
         "emojiBg": "#EDE7F6",
         "price": 17
